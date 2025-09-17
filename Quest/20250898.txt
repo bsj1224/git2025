@@ -1,1 +1,4 @@
-hello world!
+<<<<<<< HEAD
+asdf null
+
+>>>>>>> 0eb417728ff155f2d3e40eeb2fa10997103c247c
